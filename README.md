@@ -1,4 +1,4 @@
-# ElevateProject_2
+# ElevateIntern_Project_1
 Keylogger with Encrypted Data Exfiltration
 
 Overview:
